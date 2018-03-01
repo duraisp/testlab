@@ -1,6 +1,6 @@
 # testlab
 
-Hi, tee at 4
+Hi, tee at 16hrs
 
 Vim or VI is an editor, to edit a file for example:
 
