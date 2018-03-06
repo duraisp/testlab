@@ -21,3 +21,13 @@ beer:
 
 tequila:
 	@echo "give me tequila"
+
+
+foo-verbose:
+	echo "I will build and do everything ok" && echo "i fix the problem"  && echo "the end" 
+
+foo:
+	@echo "I will build and do everything ok" && echo "i fix the problem"  && echo "the end" 
+
+foo-error:
+	@echo "I will build and do everything ok" && false  && echo "the end" 
