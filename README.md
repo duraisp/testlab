@@ -1,6 +1,6 @@
 # testlab
 
-Hi, tee at 16hrs
+Hi, Branch version for development changes
 
 Vim or VI is an editor, to edit a file for example:
 
